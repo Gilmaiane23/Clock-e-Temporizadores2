@@ -1,0 +1,4 @@
+[wokwi]
+version = 1
+firmware = 'build/Atividade2_Temp_One_Shot.uf2'
+elf = 'build/Atividade2_Temp_One_Shot.elf'
